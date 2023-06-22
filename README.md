@@ -1,1 +1,1 @@
-# Road Traffic Accident Severity Prediction   ## Description  This repository contains a dataset collected from Addis Ababa Sub-city police departments for a master's research work. The dataset has been prepared from manual records of road traffic ac
+# Road Traffic Accident Severity Prediction   
